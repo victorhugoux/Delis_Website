@@ -48,10 +48,10 @@ header {
 
 /** div - Menu **/
 
-.menucito {
+/*.menucito {
     box-sizing: content-box;
 
-}
+}*/
 
 .fila {
     display: inline-block;
